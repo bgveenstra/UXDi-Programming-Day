@@ -1,3 +1,14 @@
+/* comment  */
+
+body {
+	/* something visible on the body is a good 
+	   "sanity check" that your html and css
+	   are connected! */
+	background-color: red;
+	/* now that the Lora font is linked in the 
+	   HTML, apply it to the body*/
+	font-family: 'Lora', serif;
+}
 .small-container {
 	max-width:700px;
 	margin-left:auto;
@@ -21,6 +32,8 @@
 }
 
 .logo {
+	/* note this font family overrides 
+	   the one on the body */
 	font-family:"Playball", Arial;
 	font-style:italic;
 	text-align:center;
