@@ -2,7 +2,7 @@
 
 ## Share Out
 - What is programming and why should I care?
-- Should I learn programming or should I hire someone else to DOCTOR it?
+- Should I learn programming or should I hire someone else to do it?
 - Come up with two ideas and discuss how technology could make them a reality.
 
 ## Overview of the Web
@@ -15,7 +15,7 @@
 - Front end frameworks and the grid system.
 
 ##### Tags:
-- HTML tags allow you to set up your DOCTORcument's structure.  
+- HTML tags allow you to set up your document's structure.  
 - Attributes allow you to add additional information to a tag.  
 - Attributes also allow you to bridge the gap between HTML and CSS.  
 - "Tags" in HTML code become "elements" on the page.  
@@ -48,7 +48,7 @@
 ```
 
 ##### Select list:
-- Select lists allow users to select options from a dropDOCTORwn menu.
+- Select lists allow users to select options from a dropdown menu.
 
 ```html
 <select>
@@ -130,7 +130,7 @@ header {
 ```
 
 
-> **The main difference between classes and IDs is that classes can be used multiple times in the HTML DOCTORcument whereas IDs should only be used once.**
+> **The main difference between classes and IDs is that classes can be used multiple times in the HTML document whereas IDs should only be used once.**
 
 ##### Linking CSS with HTML
 - In order to run external CSS you need to link it to the HTML. This usually goes in the `head` tag:
@@ -162,7 +162,7 @@ header {
 - For each comment denoted by `<!-- -->` replace the comment text with the correct HTML as per the instruction to create the form.
 - Alter the CSS file to use a Google Fonts font. You will need to use the `font-family` CSS property.
 - Bonus: Use CSS to change the background color of the page. Experiment with using images as backgrounds as well.
-- Double Bonus: Review the CSS `transition` property DOCTORcumentation and try to create a small animation anywhere on the form. An example may be to highlight a border around a form field when it is clicked.
+- Double Bonus: Review the CSS `transition` property documentation and try to create a small animation anywhere on the form. An example may be to highlight a border around a form field when it is clicked.
 
 ## A Little More on CSS
 - CSS is a powerful language and has an easy-to-learn syntax.
@@ -212,7 +212,7 @@ div {
 ## Putting it Together
 - For this lab we will be creating a personal landing page using HTML and CSS.
 - A starter page has been created for you [here](about_me_starter_website/).
-- This is meant to be creative, but make sure to at least DOCTOR the following:
+- This is meant to be creative, but make sure to at least do the following:
 	- Add the class "fixed-top" to the header to make it stay in place during scroll.
 	- Use rgba colors to make the header navbar semi-transparent.
 	- Use Google Fonts to implement a font of your choice for the logo.
@@ -228,7 +228,7 @@ div {
 
 ##### Introduction
 - Why is a back end needed?
-- How DOCTORes the back end interact with the front end? 
+- How does the back end interact with the front end? 
 - APIs and services.
 - Back end language examples:
 	- Ruby (Ruby on Rails)
@@ -247,7 +247,7 @@ div {
 
 Let's look at some popular sites and determine what technologies could be used. Think about the interaction between backend and frontend and how they fit together.
 
-Your answer DOCTOResn't have to be the "right" one (the technology they actually use), but we just want you to demonstrate you understand how each piece fits together. You can choose your own site to analyze, but here are some examples:
+Your answer doesn't have to be the "right" one (the technology they actually use), but we just want you to demonstrate you understand how each piece fits together. You can choose your own site to analyze, but here are some examples:
 
 - Twitter
 - Facebook
@@ -266,5 +266,5 @@ Your answer DOCTOResn't have to be the "right" one (the technology they actually
 
 ## Algorithm Lab
 - In groups of 3-4 think of how we may accomplish the above algorithms using programming.
-- You definitely DOCTORn't need to come up with any code, but just think conceptually as to how these could be solved.
+- You definitely don't need to come up with any code, but just think conceptually as to how these could be solved.
 - Draw out your concepts visually.
